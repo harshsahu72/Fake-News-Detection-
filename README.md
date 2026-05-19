@@ -31,26 +31,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Architecture](#️-architecture)
-- [Installation](#-installation)
-- [Quick Start](#-quick-start)
-- [Usage Guide](#-usage-guide)
-- [API Reference](#-api-reference)
-- [Model Details](#-model-details)
-- [Dataset Format](#-dataset-format)
-- [Configuration](#️-configuration)
-- [Module Documentation](#-module-documentation)
-- [Troubleshooting](#-troubleshooting)
-- [Future Enhancements](#-future-enhancements)
-- [License](#-license)
-
----
-
 ## 🌟 Project Overview
 
 The **Fake News Detector** is a full-stack machine learning application that classifies news articles as **Real** or **Fake** using Natural Language Processing (NLP) and ensemble learning.
