@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Fake+News+Detector;AI-Powered+Fact+Checking;Random+Forest+%2B+TF-IDF;83%25%2B+Accuracy+on+Sample+Data" alt="Typing SVG" />
 </h1>
 
@@ -29,7 +29,7 @@
 
 </div>
 
----
+--- -->
 
 ## 🌟 Project Overview
 
